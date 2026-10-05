@@ -6,7 +6,7 @@ Windows 10/11용 마크다운 편집기와 실시간 미리보기. 설치하면 
 
 ## 설치
 
-`ChoiMark-1.0.0-setup.exe`를 실행하세요. 관리자 권한 없이 현재 사용자에게 설치합니다.
+[Releases](https://github.com/choidevhi/choimark/releases)에서 `ChoiMark-1.0.0-setup.exe`를 받아 실행하세요. 관리자 권한 없이 현재 사용자에게 설치합니다.
 
 - 시작 메뉴 바로 가기와 Windows의 **설치된 앱** 제거 항목을 만듭니다.
 - WebView2가 없는 PC(일부 Windows 10)에는 설치 중에 함께 설치합니다.
