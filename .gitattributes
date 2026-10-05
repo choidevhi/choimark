@@ -4,3 +4,4 @@
 *.bmp binary
 *.woff2 binary
 *.icns binary
+scripts/fixtures/** -text
