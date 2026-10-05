@@ -1,0 +1,16 @@
+/* D2Coding (OFL-1.1, NAVER). Hangul is exactly two Latin columns wide, which keeps Markdown tables aligned. */
+@font-face {
+  font-family: "D2Coding";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("D2Coding"), url("../assets/fonts/D2Coding-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "D2Coding";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("D2Coding Bold"), url("../assets/fonts/D2Coding-Bold.woff2") format("woff2");
+}
