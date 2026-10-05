@@ -89,4 +89,4 @@ corepack pnpm tauri build                   # 설치 파일: src-tauri\target\re
 
 ## 라이선스
 
-함께 들어 있는 글꼴과 라이브러리의 라이선스는 [THIRD_PARTY.md](THIRD_PARTY.md)에 있습니다.
+ChoiMark 코드는 [MIT](LICENSE)입니다. 함께 들어 있는 글꼴과 라이브러리의 라이선스는 [THIRD_PARTY.md](THIRD_PARTY.md)에 있습니다.
